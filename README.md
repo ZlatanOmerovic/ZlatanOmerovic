@@ -18,7 +18,7 @@ Software Engineer | Cybersecurity Analyst | ASCENT Systèmes
 - Infrastructure security and hardening
 - Systems engineering and architecture
 - DevOps command and control
-- Data operations and intelligence gathering
+- Data operations and OSINT intelligence gathering
 - Security-critical systems development
 
 ## Engagement Parameters
